@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HRUkSLwBc90+lSLbtIRwMKXZtjn8aJ9h3W4WvbmllETBNEwUWIQQTyzAHKLt1Pp4JCutRqNH2F63UvkFedmpqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel\\Desktop\\Estudo\\Cadastro de clientes\\SSR\\src\\CadastroClientes.Application\\CadastroClientes.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

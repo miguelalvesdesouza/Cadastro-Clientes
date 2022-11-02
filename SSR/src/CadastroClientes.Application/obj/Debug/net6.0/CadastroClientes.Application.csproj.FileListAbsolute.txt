@@ -1,0 +1,17 @@
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\bin\Debug\net6.0\CadastroClientes.Application.deps.json
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\bin\Debug\net6.0\CadastroClientes.Application.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\bin\Debug\net6.0\CadastroClientes.Application.pdb
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\CadastroClientes.Application.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\CadastroClientes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\CadastroClientes.Application.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\CadastroClientes.Application.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\CadastroClientes.Application.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\CadastroClientes.Application.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\refint\CadastroClientes.Application.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\CadastroClientes.Application.pdb
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\ref\CadastroClientes.Application.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\bin\Debug\net6.0\CadastroClientes.Domain.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\bin\Debug\net6.0\CadastroClientes.Persistence.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\bin\Debug\net6.0\CadastroClientes.Domain.pdb
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\bin\Debug\net6.0\CadastroClientes.Persistence.pdb
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Application\obj\Debug\net6.0\CadastroClientes.Application.csproj.CopyComplete

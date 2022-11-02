@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCXw3l7Er5rp2hUudij++QBhqmvnnQeqcj2IdBH0JoTu6iW94X+t+7En4x1oOYWgo5if5Ed578OCtzG4Hukxvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel\\Desktop\\Estudo\\Cadastro de clientes\\SSR\\src\\CadastroClientes.Persistence\\CadastroClientes.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

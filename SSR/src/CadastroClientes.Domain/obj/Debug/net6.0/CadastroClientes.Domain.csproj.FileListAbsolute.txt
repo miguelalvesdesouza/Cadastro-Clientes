@@ -1,0 +1,12 @@
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\bin\Debug\net6.0\CadastroClientes.Domain.deps.json
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\bin\Debug\net6.0\CadastroClientes.Domain.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\bin\Debug\net6.0\CadastroClientes.Domain.pdb
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\CadastroClientes.Domain.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\CadastroClientes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\CadastroClientes.Domain.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\CadastroClientes.Domain.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\CadastroClientes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\CadastroClientes.Domain.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\refint\CadastroClientes.Domain.dll
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\CadastroClientes.Domain.pdb
+C:\Users\Miguel\Desktop\Estudo\Cadastro de clientes\SSR\src\CadastroClientes.Domain\obj\Debug\net6.0\ref\CadastroClientes.Domain.dll
