@@ -57,8 +57,7 @@ namespace CadastroClientes.Persistence
         public Cliente? GetById(int id)
         {
             return dbConnection.Query<Cliente>(
-                @$"
-                SELECT 
+                @$"SELECT 
                      [IdCliente] as IdCliente
                     ,[Nome] as Nome
                     ,[Telefone] as Telefone
@@ -72,8 +71,14 @@ namespace CadastroClientes.Persistence
 
         public Cliente Remove(int id)
         {
-            throw new NotImplementedException();
-        }
+            return dbConnection.Query<Cliente>( 
+            @$"DELETE 
+            FROM [Cadastros].[dbo].[Cliente]
+            WHERE idCliente = {id};
+            ").FirstOrDefault();
+
+            
+        }   
 
         public Cliente Update(Cliente cliente)
         {

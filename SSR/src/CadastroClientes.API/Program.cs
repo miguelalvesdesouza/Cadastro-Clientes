@@ -12,6 +12,7 @@ IDbConnection dbConnection = new SqlConnection(connectionString);
 builder.Services.AddControllers().AddNewtonsoftJson(x => x.SerializerSettings.ReferenceLoopHandling = 
                                                             Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
+builder.Services.AddCors();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<IDbConnection, SqlConnection>(option => new SqlConnection(connectionString));
 builder.Services.AddEndpointsApiExplorer();

@@ -35,7 +35,7 @@ namespace CadastroClientes.Application
 
         public Cliente Remove(int id)
         {
-            throw new NotImplementedException();
+            return clienteRepository.Remove(id);
         }
 
         public Cliente Update(Cliente cliente)

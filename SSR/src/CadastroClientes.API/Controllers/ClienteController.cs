@@ -92,6 +92,22 @@ namespace CadastroClientes.API.Controllers
             }
         }
 
+        [HttpDelete("{id}")]
+        public IActionResult Remove(int id)
+        {
+            try
+            {
+                var clientes = clienteService.Remove(id);
+                if(clientes == null)
+                    return NoContent();
+                return Ok(clientes);
+            }
+            catch (Exception ex)
+            {
+                return this.StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao tentar atualizar clientes. Erro: {ex.Message}");
+            }
+        }
+
 
     }
 }
